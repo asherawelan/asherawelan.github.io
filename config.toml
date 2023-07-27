@@ -37,7 +37,7 @@ paginate = 9
     author__name = "Asher Awelan"
     author__image = "/images/asher-awelan.jpg"
     author__avatar = "/images/asher-awelan.jpg"
-    author__description = "I'm Asher, a lead developer. I work with scrum teams to develop skills providing opportunities. Working together, we practice continuous delivery, produce fantastic work and bring value to the business."
+    author__description = "I’m Asher, I lead teams. I use this space to reflect on agile practice, software development, event production and other adventures."
 
   [[params.social]]
     icon = "ion-logo-twitter"
