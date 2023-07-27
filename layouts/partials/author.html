@@ -1,0 +1,29 @@
+<!-- begin author -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <section class="author">
+        <div class="author-inner">
+          <div class="author-content">
+            {{ if .Site.Params.author.author__image }}
+            <div class="author-avatar">
+              <img src="{{ .Site.Params.author.author__image }}" alt="{{ .Site.Params.author.author__name }}'s Picture" class="author-avatar__img">
+            </div>
+            {{ end }}
+
+            {{ if .Site.Params.author.author__name }}
+            <h1 class="author__name">{{ .Site.Params.author.author__name }}</h1>
+            {{ end }}
+
+            {{ if .Site.Params.author.author__description }}
+            <p class="author__desc">{{ .Site.Params.author.author__description }}</p>
+            {{ end }}
+
+            {{ partial "social-links.html" . }}
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+<!-- end author -->

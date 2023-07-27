@@ -1,0 +1,131 @@
+{{ define "main" }}
+
+{{ if or (eq .Section "post") (eq .Section "posts") }}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <div class="post-head">
+
+        {{ if .Params.tags }}
+        <div class="post-tags">
+          {{ range ($.GetTerms "tags") }}
+          <a href="{{ .Permalink }}" class="post-tags__tag">{{ .LinkTitle }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+        <h1 class="post-title">{{ .Title }}</h1>
+
+        <div class="post__meta">
+          <div class="post__author">
+            <a href="/about/" class="article__author-image" style="background-image: url('{{ .Site.Params.author.author__avatar | absURL }}')" aria-label="{{ .Site.Params.author.author__name }}'s Picture"></a> <a href="/about/" class="article__author-link">{{ .Site.Params.author.author__name }}</a>
+          </div>
+          <span class="article__date"><time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time></span>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- begin post -->
+<article class="post fadein">
+  <div class="container">
+
+    <div class="row">
+
+      {{/*
+
+      {{ if .Params.image }}
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="image-box">
+          <div class="post-image" style="background-image: url('{{ .Params.Image | absURL }}')" aria-label="{{ .Title }}"></div>
+        </div>
+      </div>
+      {{ end }}
+
+      */}}
+
+      <div class="col col-8 col-d-10 push-d-1 push-2 col-m-12 push-m-0">
+      
+        <div class="post__content">
+          {{ .Content }}
+        </div>
+    
+        {{ partial "share-buttons.html" . }}
+
+      </div>
+
+      {{/*
+      <div class="col col-8 col-d-10 push-d-1 push-2 col-m-12 push-m-0">
+        {{ if or .NextInSection .PrevInSection }}
+        <div class="post__navigation">
+          {{ if .PrevInSection }}
+          <div class="prev">
+            <a class="prev__image" href="{{ .PrevInSection.Permalink }}" style="background-image: url('{{ .PrevInSection.Params.Image }}')"></a>
+            <div class="prev__box">
+              <a class="post__nav post__nav__prev" href="{{ .PrevInSection.Permalink }}"><i class="ion ion-ios-arrow-back"></i> Previous Page</a>
+              <h4 class="post__nav__title"><a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h4>
+            </div>
+          </div>
+          {{ end }}
+
+          {{ if .NextInSection }}
+          <div class="next">
+            <a class="next__image" href="{{ .NextInSection.Permalink }}" style="background-image: url('{{ .NextInSection.Params.Image }}')"></a>
+            <div class="next__box">
+              <a class="post__nav post__nav__next" href="{{ .NextInSection.Permalink }}">Next Page <i class="ion ion-ios-arrow-forward"></i></a>
+              <h4 class="post__nav__title"><a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a></h4>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{ if .Site.Params.disqus.disqusShortname }}
+          {{ partial "disqus-comments.html" . }}
+        {{ end }}
+      </div>
+      */}}
+    </div>
+
+  </div>
+</article>
+<!-- end post -->
+
+{{ else }}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <div class="page-head">
+        <h1 class="page-head__title">{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- begin page -->
+<article class="page fadein">
+  <div class="container">
+    <div class="row">
+      {{ if .Params.image }}
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="image-box">
+          <div class="page-image" style="background-image: url('{{ .Params.Image | absURL }}')" aria-label="{{ .Title }}"></div>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col col-8 col-d-10 push-d-1 push-2 col-m-12 push-m-0">
+        <div class="page__content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- end page -->
+
+{{ end }}
+
+{{ end }}

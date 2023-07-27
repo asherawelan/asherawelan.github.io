@@ -1,0 +1,29 @@
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-recent">
+    <div class="widget__head">
+      <h3 class="widget__title">Recent Posts</h3>
+    </div>
+
+    {{ $counter := 0 }}
+    {{ range ( where site.RegularPages "Section" "posts" | first 3 ) }}
+    {{ $counter = add $counter 1 }}
+    <div class="recent-posts">
+
+      {{ if .Params.Image }}
+      <a class="recent-posts__image" href="{{ .RelPermalink }}" style="background-image: url('{{.Params.Image | absURL }}')" aria-label="{{ .Title }}"></a>
+      {{ end }}
+
+      <span class="recent-posts__count">{{ $counter }}</span>
+
+      <div class="recent-posts__content">
+        <div class="recent-posts__date">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        </div>
+        <h4 class="recent-posts__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      </div>
+
+    </div>
+    {{ end }}
+
+  </div>
+</div>

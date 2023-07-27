@@ -1,0 +1,34 @@
+<!-- begin footer-widgets -->
+<section class="footer-widgets">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="widget-box">
+          <div class="row">
+            {{ partial "footer-widgets/widget-info.html" . }}
+            {{ partial "footer-widgets/widget-recent-posts.html" . }}
+            {{ partial "footer-widgets/widget-subscribe.html" . }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end footer-widgets -->
+
+<!-- begin footer -->
+<footer class="footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="footer__inner">
+          {{ partial "social-links.html" . }}
+          <div class="copyright">{{ dateFormat "2006" now }} &copy; <a href="/">{{ .Site.Title }}</a>. All Right Reserved. Published with <a href="https://gohugo.io/">Hugo</a>.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<!-- end footer -->
