@@ -2,7 +2,7 @@ version: '3'
 services:
   hugo:
     image: jakejarvis/hugo-extended:latest
-    command: server --bind 0.0.0.0
+    command: server --buildDrafts --bind 0.0.0.0
     volumes:
       - .:/src
     ports:

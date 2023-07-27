@@ -1,7 +1,7 @@
 ---
 title: Conducting a Scrum health check
 date:   2023-07-27 06:00:00
-image:  '/images/blog/agile-scrum/health-check/preview.jpg'
+image:  '/images/blog/agile-scrum/conducting-a-scrum-health-check/preview.jpg'
 tags:   [agile, scrum, tools]
 ---
 
@@ -25,13 +25,13 @@ We approach the health check as a team, collectively reviewing our performance a
 
 The primary goal is to pinpoint our strengths and weaknesses, gauge the overall health of our team, and identify areas for improvement that we can act on.
 
-![](/images/blog/agile-scrum/health-check/image-2.jpg)
+![](/images/blog/agile-scrum/conducting-a-scrum-health-check/image-2.jpg)
 
 We review ten set statements per topic, covering essential aspects of the Scrum framework. The team discuss the statement, based on their experiences - is it a true statement? We discuss each statement until we can reach an agreement. Sometimes the statements are intentionally ambiguous to prompt discussion. Higher scores indicate strong agreement with the statement, while lower scores highlight areas that need attention and improvement.
 
 Using the [Scrum Health Checker](https://github.com/asherawelan/scrum-health-checker), we aggregate and visualize the scores with a radar chart. This graphical representation simplifies identifying patterns and trends across the different topics.
 
-![](/images/blog/agile-scrum/health-check/image-1.jpg)
+![](/images/blog/agile-scrum/conducting-a-scrum-health-check/image-1.jpg)
 
 The chart displays each topic from the health check as a point on the graph. The farther a data point extends from the centre, the more statements the team agree with. The red line shows an expected The tool saves the answers in json format, that can be downloaded with a team name and date.
 
