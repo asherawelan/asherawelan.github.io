@@ -5,7 +5,14 @@
 
 <body>
 
-  {{ template "_internal/google_analytics.html" . }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1YD9FJZ2KD"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-1YD9FJZ2KD');
+  </script>
+
 
   {{ partial "header.html" . }}
 
