@@ -1,6 +1,7 @@
 ---
 title:  The fledgling in the field
-draft:  true
+draft:  false
+date:   2023-08-02 08:00:00
 image:  '/images/blog/events/ymuno-festival/2011/preview.jpg'
 tags:   [music, ymuno festival, north wales, abergele]
 ---
