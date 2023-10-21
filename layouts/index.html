@@ -11,7 +11,7 @@
             
             {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
             {{ range $paginator.Pages }}
-              {{ partial "article-content.html" . }}
+              {{ partial "post-content.html" . }}
             {{ end }}
 
           </div>
