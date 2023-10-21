@@ -1,8 +1,9 @@
 ---
 title:  Michele Stodart, supported by Kirk McElhinney Trio; 
 draft:  true
-image:  '/images/blog/events/open-secret/2021/preview.jpg'
-tags:   [music, conwy, open secret]
+date:   2022-05-18 12:00:00
+image:  '/images/blog/events/micro-gigs/2021/preview.jpg'
+tags:   [music, conwy, micro gigs]
 ---
 
 Add People section

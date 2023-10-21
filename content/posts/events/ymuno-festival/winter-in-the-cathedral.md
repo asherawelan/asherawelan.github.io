@@ -1,8 +1,9 @@
 ---
 title:  Winter in the cathedral
-draft: true
+draft: false
+date:   2017-04-19 13:00:00
 image:  '/images/blog/events/ymuno-festival/2013/winter/preview.jpg'
-tags:   [music, ymuno festival, north wales, st asaph]
+tags:   [music, ymuno festival, north wales, reflection]
 ---
 
 On a chilly Saturday in December 2013, St Asaph Cathedral opened its doors to welcome the Ymuno Festival for a special winter event. The grand stone venue, dressed for Christmas, was washed with misted vibrant hues of purple, pink, and green as seasonal mulled wine and mince pies were served. Headlined by Welsh folk/pop duo, Paper Aeroplanes, and supported by the mesmerizing collaboration of Greg Russell & Ciaran Algar, this one-off event was a sell-out, promising an unforgettable night of music and magic.

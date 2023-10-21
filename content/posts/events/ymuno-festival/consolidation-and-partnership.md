@@ -1,8 +1,9 @@
 ---
 title:  Consolidation and partnership
-draft: true
+draft: false
+date:   2017-05-18 12:00:00
 image:  '/images/blog/events/ymuno-festival/2014/preview.jpg'
-tags:   [music, ymuno festival, north wales, abergele]
+tags:   [music, ymuno festival, north wales, reflection]
 ---
 
 In 2014, the event returned to Bryn Ffanigl Ganol, near Rhyd-y-foel, on the North Wales coast for its fourth year. Consolidating winning aspects from previous years, expanding the programme of attractions and activities and welcoming another knock-out lineup of artists and musicians.

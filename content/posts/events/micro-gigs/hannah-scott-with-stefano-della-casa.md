@@ -1,8 +1,9 @@
 ---
-title:  Hannah Scott with Stefano Della Casa
+title:  Hannah Scott accompanied by Stefano Della Casa
 draft:  true
-image:  '/images/blog/events/open-secret/2019/preview.jpg'
-tags:   [music, conwy, open secret]
+date:   2020-05-22 12:00:00
+image:  '/images/blog/events/micro-gigs/2019/preview.jpg'
+tags:   [music, conwy, micro gigs]
 ---
 
 Add People section

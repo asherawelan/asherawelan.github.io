@@ -1,8 +1,8 @@
 ---
 title:  The spark on the roof
-date:   2023-07-26 06:00:00
+date:   2017-04-01 06:00:00
 image:  '/images/blog/events/ymuno-festival/2009/preview.jpg'
-tags:   [music, ymuno festival, north wales, colwyn bay]
+tags:   [music, ymuno festival, north wales, reflection]
 ---
 
 In the late spring of 2009, Ross and I sat in a pub in Sowerby Bridge, listening to Kirk McElhinney and Jason Singh (later The Safires) entertains a packed crowd with their sensational music. A few drinks later and some crazy ideas were flowing about inviting these minstrels to North Wales and hosting a party at our gaff in Colwyn Bay.

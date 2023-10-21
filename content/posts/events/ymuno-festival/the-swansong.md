@@ -1,8 +1,9 @@
 ---
 title:  The Swansong
-draft: true
+draft: false
+date:   2017-07-20 13:00:00
 image:  '/images/blog/events/ymuno-festival/2016/preview.jpg'
-tags:   [music, ymuno festival, north wales, abergele]
+tags:   [music, ymuno festival, north wales, reflection, reflection]
 ---
 
 Although not known then, the fifth festival in 2016 would be the last. The festival partnered with Triban Solar Stage, helping to host the event's largest and most diverse programme of events and music.

@@ -1,8 +1,8 @@
 ---
-title:  Conducting a Scrum health check
+title:  How to conduct a Scrum health check
 date:   2023-07-27 06:00:00
 image:  '/images/blog/dev-life/conducting-a-scrum-health-check/preview.jpg'
-tags:   [agile, scrum, tools]
+tags:   [tech, agile, scrum, tools]
 ---
 
 The Scrum framework is a familiar model in technology departments, promoting collaboration, iterative progress, and continuous improvement. Although it's not without isses, I firmly believe that its strengths outweigh its weaknesses. However, to get the most out of it, you need to put in some effort and continuously refine a teams practice.

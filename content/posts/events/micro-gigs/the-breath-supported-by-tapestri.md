@@ -1,8 +1,9 @@
 ---
 title:  The Breath supported by Tapestri
 draft:  true
-image:  '/images/blog/events/open-secret/2023/preview.jpg'
-tags:   [music, conwy, open secret]
+date:   2022-10-18 12:00:00
+image:  '/images/blog/events/micro-gigs/2023/preview.jpg'
+tags:   [music, conwy, micro gigs]
 ---
 
 Add People section

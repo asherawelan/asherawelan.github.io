@@ -1,13 +1,14 @@
 ---
 title:  The community pledge
-draft: true
+draft: false
+date:   2017-04-18 13:00:00
 image:  '/images/blog/events/ymuno-festival/2013/summer/preview.jpg'
-tags:   [music, ymuno festival, north wales, abergele]
+tags:   [music, ymuno festival, north wales, reflection]
 ---
 
-The Ymuno Festival took a fallow year in 2012 to consider direction and focus. However, the event returned in 2013 with fresh energy, a constitution, and an expanded team to deliver it.
+The Ymuno Festival took a fallow year in 2012 to consider direction and focus. The event returned in 2013 with fresh energy, a constitution, and an expanded team to deliver it.
 
-That team collaborated with exceptional talent, impressive performers, local artists and industries of distinction to broaden the event's appeal. Central pillars to this delivery were for it to be family-friendly, affordable, and begin the challenge of being greener. Programming and marketing communicated that message to young families, and the festival grew.
+That team collaborated with exceptional talent, impressive performers, local artists and local industries of distinction to broaden the event's appeal. Central pillars to this delivery were for it to be family-friendly, affordable, and begin the challenge of being greener. Programming and marketing communicated that message to young families, and the festival grew.
 
 <div class="vimeo">
 {{< vimeo 829739253 >}}
@@ -22,7 +23,7 @@ Ymuno Festival also developed an alliance with Arts & Business Cymru. With the h
 Who played
 ----------
 
-Amy's Ghost delivered a highly visual live performance that exceeded what they produced in the studio. Their alt-pop folk energy drew in the crowd, a set that has yet to be forgotten.
+Amy's Ghost delivered a highly visual live performance that exceeded what they produced in the studio. Clad in ghostly gothic wedding garb, their alt-pop folk energy drew in the crowd, a set that has yet to be forgotten.
 
 Banda Bacana was a terrific live band that played groove-based music drawing from various influences and cultures. Their performance, which included funk, afrobeat, Latin, reggae, and ska, had the audience getting down and having fun.
 
@@ -38,9 +39,9 @@ Dion Jones, the young Welsh songsmith from Caernarfon, armed with his guitar, ra
 
 Gareth Bonello's acoustic performance drew on elements of traditional Welsh music and folklore to create modern folk music that left the audience comparing him to luminaries such as Nick Drake and John Martyn.
 
-JP Cooper's warm blend of gospel-flavored folk-soul was unpretentious, authentic, humble, and pure, making for a moving and intimate performance.
+JP Cooper returned with a warm blend of gospel-flavored folk-soul. He was as ever, unpretentious, authentic and humble, making for a moving and intimate performance.
 
-Julia Harris played her spiky folk-funk, presenting songs from her recently released album 'Colour Bomb' with high energy, percussive acoustic finger-picking, passionate vocals, and an infectious charm that was hard to resist.
+Julia Harris returned to play her spiky folk-funk, presenting songs from her recently released album 'Colour Bomb' with high energy, percussive acoustic finger-picking, passionate vocals, and an infectious charm that was hard to resist.
 
 ![](/images/blog/events/ymuno-festival/2013/summer/image-4.jpg)
 

@@ -1,11 +1,12 @@
 ---
 title:  Green shoots in the meadow
-draft: true
+draft: false
+date:   2017-04-14 16:00:00
 image:  '/images/blog/events/ymuno-festival/2010/preview.jpg'
-tags:   [music, ymuno festival, north wales, bangor]
+tags:   [music, ymuno festival, north wales, reflection]
 ---
 
-The Ymuno Festival arrived with in 2010. With the aim of bringing together and uniting communities across the country in a celebratory atmosphere filled with great music, food, and drinks. From its inception, the festival was founded on this principle, and this ethos was the driving force behind its success.
+The Ymuno Festival arrived in the summer of 2010. Its aim was to bring together and unite communities across the country in a celebratory atmosphere filled with great music, food, and drinks. From its inception, the festival was founded on this principle, and this ethos was the driving force behind its success.
 
 In its seminal year, ticket numbers were limited; there were likely only two or three degrees of separation between the 250 people in attendance. Those reduced numbers served to form connections and relationships as central themes to the festival's DNA. This close-knit community identity, both in it's management and clientele, would earn the event a reputation as the "little festival with the big heart."
 
@@ -24,17 +25,17 @@ The Mouse Outfit, a Manchester-based group, showcased their mix of hip-hop, jazz
 
 Chloe Leavers, a singer-songwriter from North Wales, performed her ethereal vocals and introspective lyrics at the festival.
 
-Julia Harris, originally from Wales, brought her mix of folk, pop, and rock with powerful vocals and emotionally resonant lyrics. Having performed at festivals like Glastonbury and the Cambridge Folk Festival, and shared the stage with artists like The Magic Numbers and The Levellers.
+Julia Harris  brought her mix of folk, pop, and rock with powerful vocals and emotionally resonant lyrics. Having performed at festivals like Glastonbury and the Cambridge Folk Festival, her performance was enjoyed by many.
 
-Stuart McCallum & Band brought their atmospheric soundscapes to the tipis. Best known as the guitarist for The Cinematic Orchestra, Stuart was also a respected solo artist in his own right. His music combined jazz, ambient, and electronic influences.
+Stuart McCallum & Band brought their atmospheric soundscapes to the tipis. Best known as the guitarist for The Cinematic Orchestra, Stuart is also a respected solo artist in his own right. His music combined jazz, ambient, and electronic influences.
 
 ![Hendre Hall, Bangor](/images/blog/events/ymuno-festival/2010/image-1.jpg)
 
-Fredo had taken to the stage as a DJ and producer affiliated with 6ix Toys and The No Fakin' DJs. He was known for his eclectic sets that blended together genres like funk, hip hop, reggae, and salsa, and had performed at clubs and festivals all over the world. He had also released music on labels like Tru Thoughts and Freestyle Records.
+Fredo is a DJ and producer affiliated with 6ix Toys and The No Fakin' DJs. His eclectic set blended together genres like funk, hip hop, reggae, and salsa.
 
 Matt Deficit, a DJ and promoter from North Wales, showcased his diverse taste in music at the festival, playing everything from drum and bass to house. His set featured a mix of classic tracks and new discoveries.
 
-The Safires, a Manchester-based band, described their sound as "acoustic alchemy" at the festival, blending together elements of folk, chillout, and electronica. Their music featured intricate fingerpicking, lush harmonies, and electronic beats, drawing comparisons to artists like Zero 7 and Bonobo. They had performed at festivals like Beat-Herder and Kendal Calling and had been featured on BBC Introducing.
+The Safires, a Manchester-based band, blend together elements of folk, chillout, and electronica. Their music featured intricate fingerpicking, lush harmonies, and electronic beats, drawing comparisons to artists like Zero 7 and Bonobo. They have performed at festivals like Beat-Herder and Kendal Calling and had been featured on BBC Introducing.
 
 The Nice Sharp Pencils, a Halifax-based duo, brought their stripped-down approach to rock music to the festival, eschewing guitars in favour of drums and bass. Their music was loud, raw, and catchy.
 

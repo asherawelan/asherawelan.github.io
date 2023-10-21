@@ -1,8 +1,8 @@
 ---
-title:  Debugging with Ngrok
-date:   2023-07-28 06:00:00
+title:  How I used Ngrok to help debug a remote service
+date:   2023-08-28 06:00:00
 image:  '/images/blog/dev-life/debugging-with-ngrok/preview.jpg'
-tags:   [agile, scrum, tools]
+tags:   [tech, agile, scrum, tools]
 ---
 
 I've always had a soft spot for Ngrok, a tool that effortlessly exposes local web services to the internet.
