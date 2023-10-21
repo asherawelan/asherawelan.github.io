@@ -1,6 +1,6 @@
 ---
 title:  Winter in the cathedral
-draft: false
+draft: true
 date:   2017-04-19 13:00:00
 image:  '/images/blog/events/ymuno-festival/2013/winter/preview.jpg'
 tags:   [music, ymuno festival, north wales, reflection]

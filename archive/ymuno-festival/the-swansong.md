@@ -1,6 +1,6 @@
 ---
 title:  The Swansong
-draft: false
+draft: true
 date:   2017-07-20 13:00:00
 image:  '/images/blog/events/ymuno-festival/2016/preview.jpg'
 tags:   [music, ymuno festival, north wales, reflection, reflection]

@@ -1,6 +1,6 @@
 ---
 title:  Consolidation and partnership
-draft: false
+draft: true
 date:   2017-05-18 12:00:00
 image:  '/images/blog/events/ymuno-festival/2014/preview.jpg'
 tags:   [music, ymuno festival, north wales, reflection]
