@@ -4,6 +4,7 @@ baseURL = "https://asherawelan.github.io"
 languageCode = "en-gb"
 title = "Asher Awelan"
 paginate = 9
+theme = "demo"
 
 #-------------------------------
 # Main Menu
